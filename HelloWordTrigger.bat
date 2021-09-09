@@ -1,1 +1,1 @@
-"C:\Users\PC\AppData\Local\UiPath\app-21.6.0-beta4514\UiRobot.exe" -file "C:\Users\PC\Documents\UiPath\HelloWorldDemo\Main.xaml"
+"C:\Users\PC\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" -file "C:\Users\PC\Documents\UiPath\HelloWorldDemo\Main.xaml"
